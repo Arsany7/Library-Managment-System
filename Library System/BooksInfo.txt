@@ -1,0 +1,7 @@
+11,The Great Gatsby,F. Scott Fitzgerald,El Shorouk,5,3,2021-05-08
+22,To Kill a Mockingbird,Harper Lee,Alef,3,2,2021-05-08
+33,Anna Karenina,Leo Tolstoy,Alef,12,1,2021-05-08
+44,One Hundred Years of Solitude,Gabriel Marquez,Light Rays,2,0,2021-05-08
+k@1,macbeth,ana,ana,10,0,2021-05-20
+k@3,sheks,peer,koko,2,0,2021-05-20
+mom,mom,momo,momo,2,0,2021-05-21
